@@ -76,9 +76,7 @@
 
 <h2 align="center">🏆 Trofeos & Logros</h2>
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=RamsesCB&theme=radical&no-frame=true&margin-w=4" alt="Trofeos" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=RamsesCB&theme=radical&no-frame=true&margin-w=4" alt="Trofeos" />
 </div>
 
 <h2 align="center">📊 Estadísticas</h2>
