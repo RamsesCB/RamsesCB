@@ -79,8 +79,7 @@
 
 <h2 align="center">🏆 Trofeos & Logros</h2>
 <div align="center">
-<!-- Enlace corregido para Trofeos -->
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DRamsesCB%26theme%3Dradical%26no-frame%3Dtrue%26margin-w%3D4" alt="Trofeos" />
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername=RamsesCB%26theme%3Dradical%26no-frame%3Dtrue%26margin-w%3D4" alt="Trofeos" />
 </div>
 
 <h2 align="center">📊 Estadísticas</h2>
