@@ -7,13 +7,10 @@
 <h1 align="center">Hola, soy Ramses 👋</h1>
 
 <div align="center">
-<!-- Contador de visitas corregido -->
-<img src="https://www.google.com/search?q=https://gpvc.arturio.dev/RamsesCB" alt="Vistas del perfil" />
+<img src="https://gpvc.arturio.dev/RamsesCB" alt="Vistas del perfil" />
 </div>
 
 <br />
-
-<!-- Cuadro de Datos Personales -->
 
 <div align="center"> <table> <tr> <td> <pre> <b>Ramses-CB@github</b>
 
@@ -79,23 +76,21 @@
 
 <h2 align="center">🏆 Trofeos & Logros</h2>
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername=RamsesCB%26theme%3Dradical%26no-frame%3Dtrue%26margin-w%3D4" alt="Trofeos" />
+<img src="https://github-profile-trophy.vercel.app/?username=RamsesCB&theme=radical&no-frame=true&margin-w=4" alt="Trofeos" />
 </div>
 
 <h2 align="center">📊 Estadísticas</h2>
 <div align="center">
-<!-- Enlaces corregidos para Estadísticas -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRamsesCB%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26locale%3Des" alt="Estadísticas generales" />
+<img src="https://github-readme-stats.vercel.app/api?username=RamsesCB&show_icons=true&theme=radical&hide_border=true&locale=es" alt="Estadísticas generales" />
 <br />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRamsesCB%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26locale%3Des" alt="Lenguajes más usados" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamsesCB&layout=compact&theme=radical&hide_border=true&locale=es" alt="Lenguajes más usados" />
 <br />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DRamsesCB%26theme%3Dradical%26hide_border%3Dtrue%26locale%3Des" alt="Racha de contribuciones" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RamsesCB&theme=radical&hide_border=true&locale=es" alt="Racha de contribuciones" />
 </div>
 
 <h2 align="center">🐍 Actividad Reciente</h2>
 <div align="center">
-<!-- Enlace corregido para la Serpiente (Requiere el archivo snake.yml para funcionar) -->
-<img src="https://www.google.com/search?q=https://github.com/RamsesCB/RamsesCB/raw/output/github-contribution-grid-snake.svg" alt="Animación de serpiente" />
+<img src="https://github.com/RamsesCB/RamsesCB/raw/output/github-contribution-grid-snake.svg" alt="Animación de serpiente" />
 </div>
 
 <h2 align="center">📫 Conéctate conmigo</h2>
