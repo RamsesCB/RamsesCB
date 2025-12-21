@@ -74,11 +74,6 @@
 <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-10%20&%2011-blue"></a>
 </p>
 
-<h2 align="center">🏆 Trofeos & Logros</h2>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RamsesCB&theme=radical&no-frame=true&margin-w=4" alt="Trofeos" />
-</div>
-
 <h2 align="center">📊 Estadísticas</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RamsesCB&show_icons=true&theme=radical&hide_border=true&locale=es" alt="Estadísticas" />
