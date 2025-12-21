@@ -7,7 +7,7 @@
 <h1 align="center">Hola, soy Ramses 👋</h1>
 
 <div align="center">
-<img src="https://gpvc.arturio.dev/RamsesCB" alt="Vistas del perfil" />
+<img src="https://komarev.com/ghpvc/?username=RamsesCB&label=Vistas&color=0e75b6&style=flat" alt="Vistas del perfil" />
 </div>
 
 <br />
@@ -85,7 +85,7 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamsesCB&layout=compact&theme=radical&hide_border=true&locale=es" alt="Lenguajes más usados" />
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RamsesCB&theme=radical&hide_border=true&locale=es" alt="Racha de contribuciones" />
+<img src="https://streak-stats.demolab.com/?user=RamsesCB&theme=radical&hide_border=true&locale=es" alt="Racha de contribuciones" />
 </div>
 
 <h2 align="center">🐍 Actividad Reciente</h2>
