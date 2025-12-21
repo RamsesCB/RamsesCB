@@ -7,7 +7,7 @@
 <h1 align="center">Hola, soy Ramses 👋</h1>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=RamsesCB&label=Vistas&color=0e75b6&style=flat" alt="Vistas del perfil" />
+<img src="https://komarev.com/ghpvc/?username=RamsesCB&label=Vistas&color=0e75b6&style=flat" alt="Vistas" />
 </div>
 
 <br />
@@ -74,23 +74,35 @@
 <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-10%20&%2011-blue"></a>
 </p>
 
+</td>
+</tr>
+</table>
+
 <h2 align="center">🏆 Trofeos & Logros</h2>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RamsesCB&theme=radical&no-frame=true&margin-w=4" alt="Trofeos" />
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=RamsesCB&theme=radical&no-frame=true&margin-w=4" alt="Trofeos" />
+</a>
+
 </div>
 
 <h2 align="center">📊 Estadísticas</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RamsesCB&show_icons=true&theme=radical&hide_border=true&locale=es" alt="Estadísticas generales" />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamsesCB&layout=compact&theme=radical&hide_border=true&locale=es" alt="Lenguajes más usados" />
-<br />
-<img src="https://streak-stats.demolab.com/?user=RamsesCB&theme=radical&hide_border=true&locale=es" alt="Racha de contribuciones" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=RamsesCB&show_icons=true&theme=radical&hide_border=true&locale=es" alt="Estadísticas" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamsesCB&layout=compact&theme=radical&hide_border=true&locale=es" alt="Lenguajes" />
+
+<img src="https://streak-stats.demolab.com/?user=RamsesCB&theme=radical&hide_border=true&locale=es" alt="Racha" />
+
 </div>
 
 <h2 align="center">🐍 Actividad Reciente</h2>
 <div align="center">
+
 <img src="https://github.com/RamsesCB/RamsesCB/raw/output/github-contribution-grid-snake.svg" alt="Animación de serpiente" />
+
 </div>
 
 <h2 align="center">📫 Conéctate conmigo</h2>
@@ -102,9 +114,5 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </p>
-
-</td>
-</tr>
-</table>
 
 </div>
