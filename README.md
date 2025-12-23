@@ -80,7 +80,7 @@
 
 <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=RamsesCB&layout=compact&langs_count=5&theme=dark&hide_border=true&locale=es&border_radius=10&card_width=495&size_weight=0.5&count_weight=0.5" alt="Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=RamsesCB&theme=radical&hide_border=true&locale=es" alt="Racha" />
+<img src="https://streak-stats.demolab.com/?user=RamsesCB&theme=dark&hide_border=false&border_color=ffffff&mode=compact&locale=es" alt="Racha Compacta" />
 </div>
 
 <h2 align="center">🐍 Actividad Reciente</h2>
