@@ -76,10 +76,10 @@
 
 <h2 align="center">📊 Estadísticas</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RamsesCB&show_icons=true&theme=radical&hide_border=true&locale=es" alt="Estadísticas" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamsesCB&layout=compact&theme=radical&hide_border=true&locale=es" alt="Lenguajes" />
-<br>
+<img src="https://github-readme-stats-one.vercel.app/api?username=RamsesCB&show_icons=true&theme=dark&locale=es&border_radius=10&card_width=495" alt="Estadísticas" />
+
+<img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=RamsesCB&layout=compact&langs_count=5&theme=dark&hide_border=true&locale=es&border_radius=10&card_width=495&size_weight=0.5&count_weight=0.5" alt="Languages" />
+
 <img src="https://streak-stats.demolab.com/?user=RamsesCB&theme=radical&hide_border=true&locale=es" alt="Racha" />
 </div>
 
