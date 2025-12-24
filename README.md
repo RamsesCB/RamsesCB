@@ -92,14 +92,7 @@
 <p align="center">
 <a href="https://www.instagram.com/sergio_ramses_22/" target="blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:tu_correo@gmail.com">
+<!--</a>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-</p>
 
-</td>
-</tr>
-</table>
-
-</div>
