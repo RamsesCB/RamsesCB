@@ -58,6 +58,7 @@
 <b>💻 Software y Herramientas</b><br />
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"></a>
+<a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
 <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge"></a>
 <a href="#"><img alt="VirtualBox" src="https://img.shields.io/static/v1?style=for-the-badge&message=VirtualBox&color=2F61B4&logo=VirtualBox&logoColor=FFFFFF&label="></a>
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
