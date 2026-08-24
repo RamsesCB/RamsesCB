@@ -13,7 +13,7 @@
 ## ⚡ Sobre Mí
 
 ```text
-💻 Programador Jr. apasionado por crear software y soluciones móviles de alto impacto.
+💻 Programador Mid-Level. apasionado por crear software y soluciones móviles de alto impacto.
 📱 Enfocado en desarrollo móvil con Flutter, Dart y Android Studio.
 🐧 Usuario avanzado de Linux (Ubuntu & Arch Linux) y virtualización.
 ♟️ Pasatiempos: Ajedrez (Elo 1200-1500), Guitarra y Natación / Artes Marciales.
