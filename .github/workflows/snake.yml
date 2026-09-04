@@ -26,7 +26,8 @@ jobs:
 
       - name: Polish Snake SVG
         run: |
-          sed -i 's/\.u{/\.u{display:none!important}\.s\.s0{fill:#38bdf8}\.s\.s1{fill:#22d3ee;opacity:0.95}\.s\.s2{fill:#0ea5e9;opacity:0.8}\.s\.s3{fill:#0284c7;opacity:0.65}\.u{/g' dist/*.svg
+          sudo chmod -R 777 dist
+          sudo sed -i 's/\.u{/\.u{display:none!important}\.s\.s0{fill:#38bdf8}\.s\.s1{fill:#22d3ee;opacity:0.95}\.s\.s2{fill:#0ea5e9;opacity:0.8}\.s\.s3{fill:#0284c7;opacity:0.65}\.u{/g' dist/*.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
