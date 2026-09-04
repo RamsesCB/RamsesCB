@@ -17,7 +17,7 @@
 
 ---
 
-### 🐍 Contribution Activity Matrix
+### 🐍 Multi-Snake Matrix (Harvesters & Planter)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamsesCB/RamsesCB/output/github-contribution-grid-snake-dark.svg">
