@@ -28,13 +28,27 @@ jobs:
         run: |
           sudo chmod -R 777 dist
           python3 -c "
-          import glob
-          extra_css = '.b0{fill:#fbbf24!important;animation-name:s0;animation-delay:-15050ms!important}.b1{fill:#f59e0b!important;animation-name:s1;animation-delay:-15050ms!important;opacity:0.95}.b2{fill:#d97706!important;animation-name:s2;animation-delay:-15050ms!important;opacity:0.8}.b3{fill:#b45309!important;animation-name:s3;animation-delay:-15050ms!important;opacity:0.65}.g0{fill:#a855f7!important;animation-name:s0;animation-delay:-7525ms!important}.g1{fill:#c084fc!important;animation-name:s1;animation-delay:-7525ms!important;opacity:0.95}.g2{fill:#9333ea!important;animation-name:s2;animation-delay:-7525ms!important;opacity:0.8}.g3{fill:#7e22ce!important;animation-name:s3;animation-delay:-7525ms!important;opacity:0.65}'
+          import glob, re
+          extra_css = '.b0{fill:#39d353!important;animation-name:s0;animation-delay:-15050ms!important}.b1{fill:#22c55e!important;animation-name:s1;animation-delay:-15050ms!important;opacity:0.95}.b2{fill:#16a34a!important;animation-name:s2;animation-delay:-15050ms!important;opacity:0.8}.b3{fill:#15803d!important;animation-name:s3;animation-delay:-15050ms!important;opacity:0.65}.g0{fill:#a855f7!important;animation-name:s0;animation-delay:-7525ms!important}.g1{fill:#c084fc!important;animation-name:s1;animation-delay:-7525ms!important;opacity:0.95}.g2{fill:#9333ea!important;animation-name:s2;animation-delay:-7525ms!important;opacity:0.8}.g3{fill:#7e22ce!important;animation-name:s3;animation-delay:-7525ms!important;opacity:0.65}'
           extra_rects = '<rect class=\"s b0\" x=\"0.8\" y=\"0.8\" width=\"14.4\" height=\"14.4\" rx=\"4.5\" ry=\"4.5\"/><rect class=\"s b1\" x=\"1.8\" y=\"1.8\" width=\"12.3\" height=\"12.3\" rx=\"4.1\" ry=\"4.1\"/><rect class=\"s b2\" x=\"2.6\" y=\"2.6\" width=\"10.8\" height=\"10.8\" rx=\"3.6\" ry=\"3.6\"/><rect class=\"s b3\" x=\"3.0\" y=\"3.0\" width=\"9.9\" height=\"9.9\" rx=\"3.3\" ry=\"3.3\"/><rect class=\"s g0\" x=\"0.8\" y=\"0.8\" width=\"14.4\" height=\"14.4\" rx=\"4.5\" ry=\"4.5\"/><rect class=\"s g1\" x=\"1.8\" y=\"1.8\" width=\"12.3\" height=\"12.3\" rx=\"4.1\" ry=\"4.1\"/><rect class=\"s g2\" x=\"2.6\" y=\"2.6\" width=\"10.8\" height=\"10.8\" rx=\"3.6\" ry=\"3.6\"/><rect class=\"s g3\" x=\"3.0\" y=\"3.0\" width=\"9.9\" height=\"9.9\" rx=\"3.3\" ry=\"3.3\"/>'
+          
+          def repl_kf(match):
+              name = match.group(1)
+              t2 = float(match.group(4))
+              t_eat = t2
+              t_plant = (t2 + 50.0) % 100.0
+              if t_eat < t_plant:
+                  return f'@keyframes {name}{{{{{t_eat:.2f}%{{fill:var(--c4)}}}{t_eat+0.02:.2f}%,{t_plant:.2f}%{{fill:var(--ce)}}}{t_plant+0.02:.2f}%,100%{{fill:var(--c4)}}}}}}'
+              else:
+                  return f'@keyframes {name}{{{{{t_plant:.2f}%{{fill:var(--ce)}}}{t_plant+0.02:.2f}%,{t_eat:.2f}%{{fill:var(--c4)}}}{t_eat+0.02:.2f}%,100%{{fill:var(--ce)}}}}}}'
+
+          pattern = r'@keyframes (c\w+)\{([^%]+)%\{fill:(var\(--c\d\))\}([^%]+)%,100%\{fill:var\(--ce\)\}\}'
+
           for fpath in glob.glob('dist/*.svg'):
               with open(fpath, 'r') as f:
                   s = f.read()
               s = s.replace('.u{', '.u{display:none!important}.s.s0{fill:#38bdf8}.s.s1{fill:#22d3ee;opacity:0.95}.s.s2{fill:#0ea5e9;opacity:0.8}.s.s3{fill:#0284c7;opacity:0.65}.u{')
+              s = re.sub(pattern, repl_kf, s)
               idx_sc = s.find('</style>')
               s = s[:idx_sc] + extra_css + s[idx_sc:]
               idx_svg = s.rfind('</svg>')
