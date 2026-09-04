@@ -9,20 +9,20 @@
 <br />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RamsesCB&label=Vistas%20del%20Perfil&color=06b6d4&style=for-the-badge" alt="Vistas del perfil" />
-  <img src="https://img.shields.io/badge/OS-Arch%20Linux%20%2F%20Sway-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Status-%E2%97%8F%20Open%20to%20Work-22c55e?style=for-the-badge" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Chess-Elo%201200--1500-f59e0b?style=for-the-badge&logo=lichess&logoColor=white" alt="Chess Elo" />
+  <img src="https://komarev.com/ghpvc/?username=RamsesCB&label=Vistas%20del%20Perfil&color=06b6d4&style=flat-square" alt="Vistas del perfil" />
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux%20%2F%20Sway-0d1117?style=flat-square&logo=arch-linux&logoColor=38bdf8" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Status-●%20Open%20to%20Work-0d1117?style=flat-square&logoColor=22c55e" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Chess-Elo%201200--1500-0d1117?style=flat-square&logo=lichess&logoColor=f59e0b" alt="Chess Elo" />
 </p>
 
 ---
 
-### 🐍 Contribution Grid Snake Matrix
+### 🐍 Contribution Activity Matrix
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamsesCB/RamsesCB/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RamsesCB/RamsesCB/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/RamsesCB/RamsesCB/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamsesCB/RamsesCB/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RamsesCB/RamsesCB/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution Snake Matrix" src="https://raw.githubusercontent.com/RamsesCB/RamsesCB/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 ---
@@ -151,33 +151,40 @@
 
 <div align="center">
 
-## 🌐 Conéctate Conmigo
+### 📬 Conexión & Redes Profesionales
 
 <p align="center">
   <a href="https://ramses-cb-portafolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portafolio-06B6D4?style=for-the-badge" alt="Portafolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/ramses-contreras-08a052378" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://wa.me/51948090684" target="_blank">
-    <img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=flat-square&logo=whatsapp&logoColor=38bdf8" alt="WhatsApp" />
   </a>
+  &nbsp;
   <a href="mailto:sergiocontrerasbernaola22@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=38bdf8" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/sergio_ramses_22" target="_blank">
-    <img src="https://img.shields.io/badge/📸_Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=38bdf8" alt="Instagram" />
   </a>
+  &nbsp;
   <a href="https://github.com/RamsesCB" target="_blank">
-    <img src="https://img.shields.io/badge/⌥_GitHub-191F31?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=38bdf8" alt="GitHub" />
   </a>
 </p>
 
-<br />
+<p align="center">
+  <code>ramses@arch:~$ ./connect --role "Mobile &amp; Frontend Engineer" --status "open-to-work"</code>
+</p>
 
 <p align="center">
-  <code>ramses@arch:~$ echo "Gracias por visitar mi perfil. ¡Hablemos de código!" &amp;&amp; exit 0</code>
+  <sub>⚡ Diseñado con precisión y estética minimalista · <b>Ramses CB</b></sub>
 </p>
 
 </div>
