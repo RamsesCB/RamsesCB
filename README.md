@@ -4,15 +4,15 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RamsesCB&label=Vistas%20del%20Perfil&color=4cd7f6&style=for-the-badge" alt="Vistas del perfil" />
-  <img src="https://img.shields.io/badge/OS-Arch%20Linux%20(Sway/Wayland)-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Status-●%20Open%20to%20Work-22c55e?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Arch_Linux-Sway%2FWayland-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Status-●_Open_to_Work-22c55e?style=for-the-badge" alt="Open to Work" />
 </p>
 
 ### 🎓 Ing. de Software | 📱 Flutter & Android Dev | 🐧 Arch Linux (Sway/Wayland) | ♟️ Elo 1200-1500
 
 ---
 
-### 🐍 Contribution Grid Snake (3-Snake Matrix)
+### 🐍 Contribution Grid Snake (3-Snake Harvester)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamsesCB/RamsesCB/output/github-contribution-grid-snake.svg">
@@ -28,8 +28,8 @@
 
 ```text
 💻 Programador Mid-Level | Soluciones móviles elegantes, limpias y de alto impacto.
-📱 Especialización      | Flutter, Dart & Android Studio SDK (Clean Arch, Offline-First).
-🐧 Linux Power User     | Ubuntu & Arch Linux (Sway/Wayland), Zsh & Shell Scripting.
+📱 Especialización      | Flutter, Dart & Android Studio SDK.
+🐧 Linux Power User     | Ubuntu & Arch Linux (Sway/Wayland), shell scripting.
 ♟️ Hobbies               | Ajedrez (Elo 1200-1500), Guitarra, Natación, Artes Marciales.
 ```
 
@@ -41,21 +41,19 @@
   <b>⌥ 1. Lenguajes Principales</b><br />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TS_%2F_JS-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-F59E0B?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go_%2F_C++-00ACD7?style=for-the-badge&logo=go&logoColor=white" alt="Go / C++" />
 </p>
 
 <p align="center">
   <b>📱 2. Mobile & Architecture</b><br />
   <img src="https://img.shields.io/badge/Flutter_v3.24-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Clean_Arch-00DAF3?style=for-the-badge&logoColor=white" alt="Clean Arch" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Clean_Arch-151b2d?style=for-the-badge&logoColor=white" alt="Clean Arch" />
   <img src="https://img.shields.io/badge/Offline--First-7C3AED?style=for-the-badge&logoColor=white" alt="Offline-First" />
 </p>
 
@@ -70,8 +68,7 @@
 <p align="center">
   <b>🛡️ 4. Linux & DevOps</b><br />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Ubuntu_%2F_Fedora-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -79,7 +76,7 @@
 
 ---
 
-## 📊 TELEMETRÍA & RITMO DE CÓDIGO
+## 📊 TELEMETRÍA & STREAK
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamsesCB&theme=tokyonight" alt="Detalles de Perfil" />
