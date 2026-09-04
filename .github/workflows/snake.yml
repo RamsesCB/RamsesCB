@@ -38,9 +38,9 @@ jobs:
               t_eat = t2
               t_plant = (t2 + 50.0) % 100.0
               if t_eat < t_plant:
-                  return f'@keyframes {name}{{{{{t_eat:.2f}%{{fill:var(--c4)}}}{t_eat+0.02:.2f}%,{t_plant:.2f}%{{fill:var(--ce)}}}{t_plant+0.02:.2f}%,100%{{fill:var(--c4)}}}}}}'
+                  return '@keyframes %s{%.2f%%{fill:var(--c4)}%.2f%%,%.2f%%{fill:var(--ce)}%.2f%%,100%%{fill:var(--c4)}}' % (name, t_eat, t_eat + 0.02, t_plant, t_plant + 0.02)
               else:
-                  return f'@keyframes {name}{{{{{t_plant:.2f}%{{fill:var(--ce)}}}{t_plant+0.02:.2f}%,{t_eat:.2f}%{{fill:var(--c4)}}}{t_eat+0.02:.2f}%,100%{{fill:var(--ce)}}}}}}'
+                  return '@keyframes %s{%.2f%%{fill:var(--ce)}%.2f%%,%.2f%%{fill:var(--c4)}%.2f%%,100%%{fill:var(--ce)}}' % (name, t_plant, t_plant + 0.02, t_eat, t_eat + 0.02)
 
           pattern = r'@keyframes (c\w+)\{([^%]+)%\{fill:(var\(--c\d\))\}([^%]+)%,100%\{fill:var\(--ce\)\}\}'
 
