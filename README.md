@@ -180,7 +180,7 @@
 </p>
 
 <p align="center">
-  <code>ramses@arch:~$ ./connect --role "Mobile &amp; Frontend Engineer" --status "open-to-work"</code>
+  <code>ramses@arch:~$ ./connect --role "Mobile &amp; Frontend Engineer" " End To End " --status "open-to-work"</code>
 </p>
 
 <p align="center">
