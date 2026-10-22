@@ -118,7 +118,7 @@
 
 ---
 
-## 📊 Telemetría & Estadísticas en Tiempo Real
+## 📊 Estadisticas
 
 <div align="center">
 
